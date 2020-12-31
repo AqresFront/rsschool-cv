@@ -6,4 +6,4 @@
 5. 
 6. 
 7. I have a financial background - Polessky State University (banking) - gr. in 2016;
-8. English lvl: B2.
+8. English level: B2.
