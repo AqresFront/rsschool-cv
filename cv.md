@@ -5,5 +5,5 @@
 4. HTML, CSS, JavaScript / ReactJS, Gatsby.js;
 5. 
 6. 
-7. I have a financial background - Polessky State University (banking) - gr. in 2016;
+7. I have a financial background - Polessky State University (banking) - gr. in 2016. IT-courses: Web-Start 6.0 - Glo Academy; 
 8. English level: B2.
